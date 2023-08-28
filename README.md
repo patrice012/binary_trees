@@ -1,6 +1,4 @@
-# 0x1C.c
-
-Functions to print binary trees in a pretty way
+Binary tree and Binary search tree
 
 ```
                            .----------------------(006)-------.
@@ -10,5 +8,3 @@ Functions to print binary trees in a pretty way
   .--(-08)--.                           (004)
 (-09)     (-07)
 ```
-
-[Original code](Original code from http://stackoverflow.com/a/13755911/5184480)
